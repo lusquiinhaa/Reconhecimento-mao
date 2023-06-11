@@ -1,5 +1,3 @@
-# Reconhecimento-mao
-
 # Reconhecimento Maos
 
 Este é um projeto simples que utiliza a biblioteca Mediapipe juntamente com a OpenCV para realizar o reconhecimento de mao em tempo real ou em imagens estáticas.
